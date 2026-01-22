@@ -2,5 +2,5 @@ Name: Segla Pentho
 Matric Number: 22CG031952
 Machine Learning Algorithm Used: Logistic Regression
 Model Persistence Method: Joblib
-Live Application URL: 
+Live Application URL: https://breastcancer-project-segla-pentho.onrender.com
 GitHub Repository Link: https://github.com/sxsii/breastcancer_project_Segla_Pentho_22CG031952
